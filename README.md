@@ -4,7 +4,8 @@
  **Project by Rani Herbawi**  
  **Technion – Israel Institute of Technology**  
  ranykhirbawi@campus.technion.ac.il
-
+ 
+**Short-term traffic forecasting at an urban junction using classical time-series models and deep learning, with exogenous weather signals and change-point analysis.**
 ---
 
 ## Overview
