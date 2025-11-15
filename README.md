@@ -1,7 +1,7 @@
 
 # Time Series Forecasting for Urban Traffic
 
- **Project by Rani Herbawi**  
+ **Project by Rani Herbawi, Almog Ben Simon, Tzuf Bachor**  
  **Technion – Israel Institute of Technology**  
  ranykhirbawi@campus.technion.ac.il
  
